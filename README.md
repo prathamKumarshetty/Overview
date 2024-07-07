@@ -49,7 +49,7 @@ A data structures and algorithms project that involves the development of effici
 
 ## Contact
 
-Feel free to explore my repositories and reach out if you have any questions or opportunities for collaboration. You can contact me via [email](mailto:prathamsss2003@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile).
+Feel free to explore my repositories and reach out if you have any questions or opportunities for collaboration. You can contact me via [email](mailto:prathamsss2003@gmail.com) or connect with me on [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/pratham-shetty-a69070230/)).
 
 Thank you for visiting my GitHub profile!
 
